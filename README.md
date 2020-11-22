@@ -14,6 +14,7 @@ El proyecto esta escrito con Python 3.8 (captura de audio) y en C (captura de vi
 ## Requerimientos de software
 
 - Sistema operativo Raspberry Pi OS 32bit
+- Python3.8
 - Drivers seeed-voicecard
 
 ## Instalación
