@@ -6,7 +6,7 @@ El proyecto esta escrito con Python 3.8 (captura de audio) y en C (captura de vi
 
 ## Requerimientos de hardware.
 
-- Raspberry Pi 4 modelo b
+- Raspberry Pi 4 modelo b+ o superior
 - ReSpeaker 4-Mic Array
 - 4 cámaras usb v4l2
 - Grove-Button usa cables 4-Pines
